@@ -1,0 +1,201 @@
+{
+  "basics": {
+    "name": "Illia Tkachuk",
+    "label": "Software Engineer",
+    "picture": "",
+    "email": "***",
+    "summary": "Software Engineer with experience in Java/Scala Enterprise, 10+ years with Java and 5 years with Scala",
+    "location": {
+      "address": "Wrocław, Poland"
+    },
+    "phone": "***"
+  },
+  "education": [
+    {
+      "institution": "Kherson State University",
+      "area": "Mathematics and Informatics",
+      "studyType": "Master degree",
+      "location": "Kherson, Ukraine",
+      "startDate": "2002-09-01",
+      "endDate": "2007-05-31"
+    }
+  ],
+  "work": [
+    {
+      "company": "Luxoft",
+      "position": "Senior Software Engineer",
+      "location": "Wrocław, Poland",
+      "startDate": "2016-10-01",
+      "website": "http://luxoft.com",
+      "summary": "Summary...",
+      "highlights": [
+        "Implementation of functional requirements at server side",
+        "Design and implementation of integrations with 3rd-party systems",
+        "Design and implementation of internal services",
+        "Code reviews for server team",
+        "Production support"
+      ]
+    },
+    {
+      "company": "Cogniance",
+      "position": "Senior Software Engineer",
+      "location": "Wrocław, Poland / Kyiv, Ukraine",
+      "startDate": "2014-10-01",
+      "endDate": "2016-09-31",
+      "website": "http://cogniance.com",
+      "summary": "Summary...",
+      "highlights": [
+        "Perform development and bug-fixing tasks",
+        "Develop back-end for mobile and web applications",
+        "Implement integration with 3rd-party systems' API",
+        "Write technical documentation",
+        "QA support"
+      ]
+    },
+    {
+      "company": "Luxoft",
+      "position": "Senior Java/Scala Developer",
+      "location": "Kyiv, Ukraine",
+      "startDate": "2010-07-01",
+      "endDate": "2014-09-31",
+      "website": "http://luxoft.com",
+      "summary": "Summary...",
+      "highlights": [
+        "Perform development and bug-fixing tasks",
+        "Develop server-side",
+        "Design and develop core parts of server-side",
+        "Develop server-side connectors for 3rd-party systems",
+        "Participate in development of web-based dashboard",
+        "QA, UAT and Production support"
+      ]
+    },
+    {
+      "company": "GeeksForLess",
+      "position": "Senior Java Developer",
+      "location": "Mykolaiv, Ukraine",
+      "startDate": "2009-02-01",
+      "endDate": "2010-06-31",
+      "summary": "Summary...",
+      "highlights": [
+        "Develop a GUI installer with plugins and a backed",
+        "Develop web application for a field guide",
+        "Design and develop API for mobile applications for the field guide"
+      ]
+    },
+    {
+      "company": "DataArt",
+      "position": "Java Developer",
+      "location": "Kherson, Ukraine",
+      "startDate": "2007-06-01",
+      "endDate": "2008-12-31",
+      "website": "http://dataart.com",
+      "summary": "Summary...",
+      "highlights": [
+        "Develop events management module with UI calendar"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "keywords": [
+        "Java",
+        "Scala",
+        "Python",
+        "Groovy",
+        "Erlang",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Java technologies",
+      "keywords": [
+        "JDBC",
+        "JMS",
+        "JPA",
+        "JMX",
+        "JSP",
+        "Servlets",
+        "JFC (Swing)",
+        "JAXB",
+        "JAX-RS",
+        "Akka (Scala)"
+      ]
+    },
+    {
+      "name": "Java frameworks/apps",
+      "keywords": [
+        "Spring (Core, MVC, Security)",
+        "Hibernate",
+        "Apache Camel",
+        "Apache ActiveMQ",
+        "Apache Zookeeper",
+        "JUnit",
+        "Liftweb (Scala)",
+        "Apache Tomcat"
+      ]      
+    },
+    {
+      "name": "Build tools",
+      "keywords": [
+        "Maven",
+        "Gradle",
+        "SBT",
+        "Make"
+      ]
+    },
+    {
+      "name": "Web",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "XML",
+        "XSLT",
+        "JSON"
+      ]
+    },
+    {
+      "name": "Databases",
+      "keywords": [
+        "Oracle DB",
+        "MySQL",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "name": "Source Control",
+      "keywords": [
+        "Git",
+        "Perforce",
+        "SVN"
+      ]
+    },
+    {
+      "name": "Other",
+      "keywords": [
+        "Functional programming",
+        "OOP",
+        "DDD",
+        "TDD"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Ukrainian",
+      "fluency": "Native"
+    },
+    {
+      "language": "Russian",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Upper-intermediate"
+    },
+    {
+      "language": "Polish",
+      "fluency": "Intermediate"
+    }
+  ]
+}
